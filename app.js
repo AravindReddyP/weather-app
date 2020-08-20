@@ -43,7 +43,7 @@ function displayResults(weather) {
     weather.main.temp_max
   )}°c`;
 }
-// Display date & time
+// Display date and time
 function dateBuilder(d) {
   let months = [
     'January',
