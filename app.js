@@ -3,7 +3,7 @@ const api = {
   base: 'https://api.openweathermap.org/data/2.5/',
 };
 
-// Example of an API call
+// Example of an API call to weather library
 // api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=ac9912b5dac53b847bcc44612788cbeb
 
 const searchbox = document.querySelector('.search-box');
